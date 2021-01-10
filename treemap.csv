@@ -1,0 +1,10 @@
+name,parent,value
+A,,
+B,,
+C,,
+grp1,A,12
+grp2,B,23
+grp3,C,11
+grp4,A,40
+grp5,B,30
+grp6,C,25
