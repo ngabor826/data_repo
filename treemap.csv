@@ -2,7 +2,7 @@ name,parent,value
 A,,
 grp1,A,12
 grp2,A,23
-grp3,B,11
-grp4,B,40
-grp5,C,30
-grp6,C,25
+grp3,A,11
+grp4,A,40
+grp5,A,30
+grp6,A,25
